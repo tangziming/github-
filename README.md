@@ -6,4 +6,4 @@
 ## 3、Git clone https://github.com/tangziming/github_learn.git       克隆github的仓库
 ## 4、把要提交的代码，复制进去克隆出来的文件夹
 
-## 试一下获取吧
+## 试一下获取吧  加几句话 
